@@ -18,4 +18,17 @@ Utilizar links para visitar outro site com uma maior descrição sobre o cachorr
 
 pag:81 
 Inserindo link de E-mail 
-<a href="emailto:atendimento@meuamigocaopetshop.com">atendimento@meuamigocaopetshop.com</a>- (0xx) 88888-8888
+<!-- <a href="emailto:atendimento@meuamigocaopetshop.com">atendimento@meuamigocaopetshop.com</a>- (0xx) 88888-8888 -->
+permite por meio do uso de link o acesso ao progama padrão de correio eletrônico trazendo o campo destinatario preenchido possibilita ao usuário enviar uma mensagem para um E-email apenas clicando em um link na página 
+
+pag:85
+Criando um Formulario Básico 
+<!-- <form>
+
+<p><label for="Nome:">Nome</label> <input type="text" name="nome"></p>
+
+</form> -->
+
+,label, é um elemento de entrada que define um rótulo para um elemento que será digitado.
+
+A tag ,input, é um elemento de entrada onde o usuário pode inserir dados. deve ser utilizado junto a uma tag ,label
