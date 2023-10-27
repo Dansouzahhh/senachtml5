@@ -29,6 +29,19 @@ Criando um Formulario Básico
 
 </form> -->
 
+type Esse atributo Especifica o tipo de elemento
+
 ,label, é um elemento de entrada que define um rótulo para um elemento que será digitado.
 
 A tag ,input, é um elemento de entrada onde o usuário pode inserir dados. deve ser utilizado junto a uma tag ,label
+
+id:Serve para indentificar o elemento e possibilitar o uso da tag ,Label,;
+
+PlaceHolder: Especifica uma dica que descreve o valor esperado de um campo de entrada, uma orientação do que deve ser digitado;
+
+id="nome" placeholder="Digite seu Nome"
+
+pag:86
+<!-- <input type="submit" value="Enviar"> -->
+
+o atributo type com o valor descrito com o valor descrito como submit Criara um botão
