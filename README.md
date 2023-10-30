@@ -45,3 +45,24 @@ pag:86
 <!-- <input type="submit" value="Enviar"> -->
 
 o atributo type com o valor descrito com o valor descrito como submit Criara um botão
+                                                 
+                                                ///CaP:03///
+pag:121 
+
+ Antes do Elemento <!-- </head> -->
+Digite ^link "href=Estilos/principail.css"  Rel="stylesheet" type="Text/css"^
+
+Esse procedimento cria um vínculo entre o arquivo contendo o estilo e a página na qual Está o conteúdo.
+
+pag:122 
+Font size: 1.75em / 28/16=1.75 /
+
+font size Modifica o tamanho da fonte Dentro de Um H.1 ou 2 muda Apenas o local Desejado 
+
+Distância entre linhas e alinhamento: Para Controla o comportamento dessas linhas deve utilizar Duas propriedades de estilo: line-Height (altura da linha) e Align (Alinhamento).
+
+p' 
+ font-size: 1.1em;
+ line-height: 1.3;
+ text-align: justify;
+ '

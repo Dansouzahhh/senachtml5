@@ -1,0 +1,16 @@
+h1{
+    color: #c0262c;
+    font-size: 2.5em; /* 40/16=2.5 */
+}
+
+p{
+    font-size: 1.1em;
+    line-height: 1.3;
+    text-align:justify;
+}
+p::first-line {
+    font-size: 1.17em;
+    font-variant: small-caps;
+    font-weight: bolder;
+    font-style: italic;
+}
