@@ -66,3 +66,26 @@ p'
  line-height: 1.3;
  text-align: justify;
  '
+
+ pag:123
+
+há uma serie de possibilidades para se manipular os textos dentro de uma página.
+Variação, peso e estilo são as mais comuns.
+
+ Variação, peso e estilo: 
+ p::first-line {
+    font-size: 1.17em;
+    font-variant: small-caps;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+O Seletor Utilizado é chamado pseudoelemento first-line. Ele seleciona a primeira linha do elemento indicado que nesse caso é o parágrafo Existem Vários tipos de seletores diferentes.
+
+Cor da Régua 
+hr"
+border-color: #c0262c "
+
+Famíia de fontes
+
+body=Font-family : Adiciona Diferentes fontes depende do Computador Vire padrão 
