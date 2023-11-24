@@ -89,3 +89,10 @@ border-color: #c0262c "
 Famíia de fontes
 
 body=Font-family : Adiciona Diferentes fontes depende do Computador Vire padrão 
+
+Dia 23/11/23
+
+Cap4 Novos Elementos 
+
+<!-- <Article> -->
+Especifica um contéudo próprio e indenpendente de outros contéudos. Toda Vez que a página tiver uma informaçâo que  faça sentido por si própria de forma independente do resto do site, esse conteudo deve ser colocado nesse elemento da página
