@@ -95,4 +95,10 @@ Dia 23/11/23
 Cap4 Novos Elementos 
 
 <!-- <Article> -->
-Especifica um contéudo próprio e indenpendente de outros contéudos. Toda Vez que a página tiver uma informaçâo que  faça sentido por si própria de forma independente do resto do site, esse conteudo deve ser colocado nesse elemento da página
+Especifica um contéudo próprio e indenpendente de outros contéudos. Toda Vez que a página tiver uma informaçâo que  faça sentido por si própria de forma independente do resto do site, esse conteudo deve ser colocado nesse elemento da página 
+
+<!-- <aside> -->
+define um conteúdo secundário que pode ser colocado como uma barra lateral, um conteúdo que pode agregar ou não as informações relativas á página 
+
+<!-- footer -->
+Esse elemento especifica um rodapé de um documento ou de um uma seçâo. Ele deve conter informaçôes sobre o autor do documento, os direitos autorais, os links para termos de uso as informações de contato, Etc. É possivel ter varios elementos <!-- <footer> --> em uma Página.
