@@ -102,7 +102,8 @@ define um conteúdo secundário que pode ser colocado como uma barra lateral, um
 
 <!-- footer -->
 Esse elemento especifica um rodapé de um documento ou de um uma seçâo. Ele deve conter informaçôes sobre o autor do documento, os direitos autorais, os links para termos de uso as informações de contato, Etc. É possivel ter varios elementos <!-- <footer> --> em uma Página.
-
+                                                            ///
+                                                            
 ATIVIDADE 3 Continuação: Estilo incorporado (ou interno)
 
  Adiciona um fundo com cor e formatos dependendo como no Exemplo que adiciona um fundo  vermelho com bolinhas um pouco branca
