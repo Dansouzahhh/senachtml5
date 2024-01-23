@@ -118,4 +118,17 @@ ATIVIDADE 3 Continuação: Estilo incorporado (ou interno)
     }
 </style> -->
 
+Cap-4 / Pag: 179
 
+<Aside> -> Define algum conteúdo extra, não necessariamente vinculado à ideia principal. Pode ser colocado em uma barra lateral
+
+<section> -> Define uma seção em um documento. De acordo com o W3C, 'Uma seção é um agrupamento de conteúdo temático, tipicamento com um título" . A página poderia ser dividida em seção é agrupamento de conteúdo temático, tipicamente com um título' .
+A página poderia ser dividida em seções para introdução, conteúdo e informações de contato
+
+<Article> Especifica um conteúdo independente e  autossuficiente. Um artigo deve fazer sentido por si só e deve ser possível lê-lo de forma independente do resto da página. 
+
+
+Cap-5 / pag; 202
+<Hover> 
+
+hover em diversos elementos, parágrafos, títulos, links, etc. Fique apenas atento ao elemento que está usando para que não haja sobreposição. 

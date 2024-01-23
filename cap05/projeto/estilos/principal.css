@@ -8,6 +8,11 @@ padding-bottom: 7px;
 
 h2 {
     font-size: 1.75em; /* 28/16=1.75 */
+    background: #C0262C url(../multimidia/back-bolinha.gif) repeat top center;
+    color: #fff;
+    letter-spacing: .1em;
+    padding: 7px;
+    width: 316px;
 }
 
 p { 	
@@ -29,4 +34,59 @@ border-color: #C0262C;
 
 body { 	
 font-family: Helvetica, Arial, sans-serif; 
+}
+
+/* pagina produtos - tabela */
+#produtos table {
+    width: 600px;
+    margin: 50px auto 30px;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+#produtos th, #produtos td {
+    border: #999 solid 1px;
+    padding: 5px;
+
+}
+
+table {
+    border-top: solid 3px #777;
+    border-bottom: solid 3px #777;
+}
+th, td {
+    padding: 7px;
+}
+
+#produtos caption {
+    background-color: #999;
+    color: #fff;
+    padding: 15px 0;
+    font-size: 1.em;
+}
+
+caption {
+    caption-side: bottom;
+    background-color: #777;
+    color: #fff;
+    padding: 10px 0;
+}
+
+#produtos td[colspan] {
+    font-style: italic;
+    font-weight: bold;
+    color: #999;
+}
+
+#produtos tr:hover {
+    background-color: #efefef76;
+}
+
+/* página boletim - formulário */
+
+form {
+    background-color: #999;
+    margin: 30px 0;
+    padding: 20px;
+    border-radius: 0 15px;
 }
