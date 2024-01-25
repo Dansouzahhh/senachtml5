@@ -132,3 +132,7 @@ Cap-5 / pag; 202
 <Hover> 
 
 hover em diversos elementos, parágrafos, títulos, links, etc. Fique apenas atento ao elemento que está usando para que não haja sobreposição. 
+
+Cap-5 / pag: 235
+||
+Cap-5 / pag: 252
