@@ -315,4 +315,5 @@ input[type=submit] {
     transform: rotate(30deg);
 }
 
-
+/* controle de áudio */ 
+aside audio {width: 230px;}
