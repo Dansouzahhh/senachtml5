@@ -317,3 +317,6 @@ input[type=submit] {
 
 /* controle de áudio */ 
 aside audio {width: 230px;}
+
+/* controle de video */
+aside video {width: 230px;}
